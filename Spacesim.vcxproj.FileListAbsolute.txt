@@ -1,0 +1,2 @@
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\Debug\Spacesim.exe
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\Debug\Spacesim.pdb

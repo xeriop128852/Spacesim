@@ -1,0 +1,9 @@
+﻿cl : 命令列 warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+cl : 命令列 warning D9007: '/Gm' 需要 '/Zi 或 /ZI'，已忽略選項
+  main.cpp
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\cube.h(7,1): warning C4005: 'MAX_VERTICES': 巨集重複定義
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\object.h(23): message : 請參閱 'MAX_VERTICES' 之前的定義
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\cube.h(8,1): warning C4005: 'MAX_POLYGONS': 巨集重複定義
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\object.h(24): message : 請參閱 'MAX_POLYGONS' 之前的定義
+C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\main.cpp(132,13): warning C4101: 'x': 未參考的區域變數
+  Spacesim.vcxproj -> C:\Users\陳元娣\Desktop\Spacesimulator_net-tutorial7_win_vc6\spacesimulator.net_tutorial7_win_vc6\.\Debug\Spacesim.exe
